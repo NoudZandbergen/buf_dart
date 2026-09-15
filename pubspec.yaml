@@ -1,0 +1,11 @@
+name: buf
+description: A slice-oriented byte buffer over shared ByteBuffer storage.
+version: 0.1.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.11.5
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
